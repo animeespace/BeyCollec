@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Storm Pegasus 105 RF",
+    "type": "Attaque",
+    "rotation": "Droite",
+    "image": "https://static.wikia.nocookie.net/beyblade/images/9/9d/Storm_Pegasis_Anime_2.png",
+    "description": "Toupie emblématique de Ginga, puissante et rapide."
+  },
+   {
+    "name": "Rock Leone 145 WB",
+    "type": "Défense",
+    "rotation": "Droite",
+    "image": "https://static.wikia.nocookie.net/beyblade/images/c/c6/Leone_Anime.PNG",
+    "description": "Toupie emblématique de Kyoya."
+  }
+]

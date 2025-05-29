@@ -1,0 +1,18 @@
+[
+	{
+		"name": "Valkyrie Wing Accel",
+		"type": "Attaque",
+		"rotation": "Droite",
+		"poids": "33",
+		"image": "https://static.wikia.nocookie.net/beyga/images/0/06/Valkyrie_Wing_Accel_%28B-08_special%29.png",
+		"description": "La toupie là."
+	},
+	{
+		"name": "Spriggan Requiem 0 Zeta",
+		"type": "Équilibre",
+		"rotation": "Double",
+		"poids": "10",
+		"image": "https://static.wikia.nocookie.net/beyblade/images/b/be/Beyblade_Spriggan_Requiem.png",
+		"description": "Toupie capable de changer de rotation, très versatile."
+	}
+]

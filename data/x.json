@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Dran Sword 3-60 Flat",
+    "type": "Attaque",
+    "rotation": "Droite",
+    "poids": "43.3",
+    "image": "https://static.wikia.nocookie.net/beyblade/images/0/09/DranSword_3-60F.png",
+    "description": "DranSword fut l'une des quatre premières Lames à être lancées, et la première Lame de type Attaque à être lancée. Populaire dans les decks de combat 3 contre 3, elle resta très utilisée de sa sortie en juin 2023 à janvier 2024, date à laquelle elle fut progressivement remplacée par la Lame Aile de Phénix (Phénix Envolé), plus lourde. J'ai full google trad le wiki anglais pour test mdr",
+    "moreInfoUrl": "https://be.cedricolivry.fr/wiki"
+  },
+  {
+    "name": "Hell Scythe 4-60 Tapper",
+    "type": "Équilibre",
+    "rotation": "Droite",
+    "poids": "41.5",
+    "image": "https://static.wikia.nocookie.net/beyblade/images/e/e4/BladeHellsScythe.png",
+    "description": "Wtf c'est la faucheuse ou quoi là ?"
+  },
+  {
+    "name": "Wizard Arrow 4-80 Ball",
+    "type": "Endurance",
+    "rotation": "Droite",
+    "poids": "41",
+    "image": "https://static.wikia.nocookie.net/beyblade/images/4/44/BladeWizardArrow.png",
+    "description": "En fait elle jsp."
+  },
+  {
+    "name": "Knight Shield 3-80 Needle",
+    "type": "Défense",
+    "rotation": "Droite",
+    "poids": "41.9",
+    "image": "https://static.wikia.nocookie.net/beyblade/images/9/9c/BladeKnightShield.png",
+    "description": "Elle a durée le temps d'un snap cette pute mdrrr"
+  }      
+]
